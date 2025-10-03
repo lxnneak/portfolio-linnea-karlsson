@@ -47,6 +47,9 @@ h1 {
 }
 
 .skill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border-style: solid;
   border-width: 1px;
   padding: 0.7rem;
