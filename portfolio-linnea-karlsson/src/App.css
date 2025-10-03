@@ -40,3 +40,16 @@ h1 {
   width: 20rem;
   padding: 1rem;
 }
+
+.skillset {
+  display: flex;
+  justify-content: space-around;
+}
+
+.skill {
+  border-style: solid;
+  border-width: 1px;
+  padding: 0.7rem;
+  width: 5rem;
+  text-align: center;
+}

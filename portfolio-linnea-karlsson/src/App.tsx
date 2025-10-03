@@ -26,7 +26,7 @@ function App() {
               href="https://github.com/lxnneak/java-b-projektuppgift"
               target="_blank"
             >
-              Burglar game
+              Burglar Game
             </a>
           </h3>
           <p>
@@ -41,7 +41,7 @@ function App() {
               href="https://github.com/tHaraldsson/spring-todo-service"
               target="_blank"
             >
-              Spring todo service
+              Spring Todo Service
             </a>
           </h3>
           <p>
@@ -57,13 +57,23 @@ function App() {
             </a>
           </h3>
           <p>
-            Web app that challenges the user to not spend money during the work
-            week
+            Web app that challenges the user to not spend money during the
+            weekdays
           </p>
         </div>
       </div>
       <div>
         <h1>Technical skills</h1>
+        <div className="skillset">
+          <p className="skill">Java</p>
+          <p className="skill">Spring Boot</p>
+          <p className="skill">React</p>
+          <p className="skill">Typescript</p>
+          <p className="skill">HTML</p>
+          <p className="skill">CSS</p>
+          <p className="skill">SQL</p>
+          <p className="skill">Git</p>
+        </div>
       </div>
     </>
   )
