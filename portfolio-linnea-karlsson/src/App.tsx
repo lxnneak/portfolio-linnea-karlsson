@@ -9,7 +9,7 @@ function App() {
           <h1>Linnéa Karlsson</h1>
           <p>
             An aspiring fullstack developer dreaming about making the world a
-            better place.
+            better place
           </p>
           <p>
             Take a look around to see some of the projects that I've worked on!
