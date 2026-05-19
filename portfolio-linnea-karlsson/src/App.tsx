@@ -15,7 +15,7 @@ function App() {
             Take a look around to see some of the projects that I've worked on!
           </p>
         </div>
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQFM4fjIUPXABQ/profile-displayphoto-shrink_800_800/B4DZcMVNtYGcAg-/0/1748258578120?e=1762387200&v=beta&t=8Ti-i7w7ikFOma27Q1lYaVgiCKsp5L5M-RZCMN04TCg"></img>
+        <img src="/profile-square.jpg" alt="Profile picture"></img>
       </div>
 
       <h1>Featured projects</h1>
