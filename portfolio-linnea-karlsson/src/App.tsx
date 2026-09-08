@@ -23,15 +23,15 @@ function App() {
         <div className="card">
           <h3>
             <a
-              href="https://github.com/lxnneak/java-b-projektuppgift"
+              href="https://github.com/lxnneak/budget-app-enterprise"
               target="_blank"
             >
-              Burglar Game
+              Budget App
             </a>
           </h3>
           <p>
-            Java console game where the player has to defend themselves from a
-            burglar inside their home
+            Budget management app that helps users track and control their
+            expenses
           </p>
         </div>
 
